@@ -1,0 +1,38 @@
+table.greyGridTable {
+    background-color: #FFFFFF;
+    width: 40%;
+    text-align: center;
+    border-collapse: collapse;
+  }
+
+  table.greyGridTable td, table.greyGridTable th {
+    padding: 5px 4px;
+  }
+
+  table.greyGridTable thead {
+    background: #FFFFFF;
+    border-bottom: 4px solid #333333;
+  }
+
+  table.greyGridTable thead th {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+    text-align: center;
+  }
+
+  table.greyGridTable thead th:first-child {
+    border-left: none;
+  }
+
+  .bordeDerecho {
+      font-size: 20px;
+      border-right: 4px solid #333333;
+      color: #333333;
+  }
+
+  .numeros {
+      font-size: 23px;
+      color: blue;
+      font-weight: bold;
+  }
