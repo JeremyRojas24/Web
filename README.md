@@ -1,2 +1,2 @@
 # Web
-Prácticas Web S4
+Proyecto Web Hexagramas
